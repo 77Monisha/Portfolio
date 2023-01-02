@@ -1,0 +1,55 @@
+export const projects = [
+  {
+    title: 'Mosh Media',
+    description: "Mosh Media is a one stop virtual entertainment destination with amazing video content related to education, movies, music, beauty ,gym, gaming and many more High quality videos.",
+      image: '/images/1.png',
+      tags: ['React', 'Material UI', 'RapidAPI'],
+    source: 'https://mosh-media.netlify.app/',
+    visit: 'https://github.com/77Monisha/Mosh-Media',
+    id: 0,
+  },
+  {
+    title: 'Texty',
+    description:"Texty is a word counter and character manipulator utility which can convert your text in whatever way you like which includes changing your text from uppercase to lowercase & lowercase to uppercase , also trimming the extra white spaces after which you can copy your manipulated text.",
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript', 'Bootstrap'],
+    source: 'https://77monisha.github.io/Texty/',
+    visit: 'https://github.com/77Monisha/Texty',
+    id: 1,
+  },
+  {
+    title: 'HooBank',
+    description: "HooBank is the highly responsive website with modern UX/UI in React JS and Tailwind with amazing opening section and high quality gradient, having business stats, buttons , testimonials and reusable components.",
+      image: '/images/5.png',
+      tags: ['React','Tailwind', 'UX/Ui'],
+    source: 'https://hoo-bank-mosh.netlify.app/',
+    visit: 'https://github.com/77Monisha/HooBank',
+    id: 2,
+  },
+  {
+    title: 'Mosh Flower Shop',
+    description: "Mosh, A flower shop where you find extremely beautiful and fresh flowers at affordable rates, keep them to decorate you home with their soulful vibe.",
+    image: '/images/3.png',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    source: 'https://77monisha.github.io/Mosh/',
+    visit: 'https://github.com/77Monisha/Mosh',
+    id: 3,
+  },
+  {
+    title: 'Glass Morphism Effect',
+    description: "A Real Glass morphism effect.",
+    image: '/images/4.png',
+    tags: ['HTML', 'CSS'],
+    source: 'https://77monisha.github.io/Glass-Morphism-Effect/',
+    visit: 'https://github.com/77Monisha/Glass-Morphism-Effect',
+    id: 4,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2018, text: 'Worked as a freelance developer', },
+  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2021, text: 'Started my own platform', },
+];
